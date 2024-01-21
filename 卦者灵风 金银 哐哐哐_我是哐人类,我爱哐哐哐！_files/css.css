@@ -1,0 +1,78 @@
+.clear {
+	CLEAR: both
+}
+#featured {
+	OVERFLOW: hidden; WIDTH: 480px; POSITION: relative; HEIGHT: 200px
+}
+#featured .word {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; Z-INDEX: 10; BACKGROUND: url(/web/20110131151853im_/http://www.kuanger.com/1/bg_transparent.gif) no-repeat; LEFT: 0px; PADDING-BOTTOM: 5px; WIDTH: 470px; COLOR: #fff; BOTTOM: 0px; PADDING-TOP: 5px; POSITION: absolute; HEIGHT: 32px
+}
+#featured .word H3 {
+	FONT-SIZE: 13px
+}
+#featured .ui-els-hide {
+	DISPLAY: none
+}
+#thumbs {
+	WIDTH: 480px; LIST-STYLE-TYPE: none; HEIGHT: 28px
+}
+* HTML #thumbs {
+	HEIGHT: 100%
+}
+#thumbs LI {
+	DISPLAY: inline; FLOAT: left; WIDTH: 52px; MARGIN-RIGHT: 4px; HEIGHT: 24px
+}
+#thumbs UL {
+	MARGIN-TOP: 3px
+}
+#thumbs LI.last_img {
+	MARGIN-RIGHT: 4px
+}
+#thumbs LI.first {
+	MARGIN: 5px 10px 0pt 15px; WIDTH: 20px; CURSOR: pointer; HEIGHT: 13px
+}
+#thumbs LI.last {
+	MARGIN: 5px 12px 0pt 8px; WIDTH: 20px; CURSOR: pointer; HEIGHT: 13px
+}
+#thumbs LI A {
+	BORDER-RIGHT: #9c9c9c 2px solid; BORDER-TOP: #9c9c9c 2px solid; DISPLAY: block; FONT-SIZE: 0px; BORDER-LEFT: #9c9c9c 2px solid; WIDTH: 48px; BORDER-BOTTOM: #9c9c9c 2px solid
+}
+#thumbs LI A:hover {
+	BORDER-RIGHT: #99cc33 2px solid; BORDER-TOP: #99cc33 2px solid; BORDER-LEFT: #99cc33 2px solid; BORDER-BOTTOM: #99cc33 2px solid
+}
+#thumbs LI A.current {
+	BORDER: #5FC243 2px solid;
+}
+#thumbs LI.first IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#thumbs LI.last IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#topstory {
+	MARGIN-left: 2px; BACKGROUND: #fff; FLOAT: left; WIDTH: 490px; HEIGHT: 237px;
+	border:1px solid #008C00;
+}
+#highlight {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FLOAT: left; PADDING-BOTTOM: 5px; WIDTH: 470px; PADDING-TOP: 5px
+}
+/*
+     FILE ARCHIVED ON 15:18:53 Jan 31, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:51:58 Jan 21, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 341.413
+  exclusion.robots: 0.105
+  exclusion.robots.policy: 0.091
+  cdx.remote: 0.085
+  esindex: 0.014
+  LoadShardBlock: 254.014 (3)
+  PetaboxLoader3.resolve: 264.456 (3)
+  PetaboxLoader3.datanode: 51.869 (4)
+  load_resource: 105.677
+*/

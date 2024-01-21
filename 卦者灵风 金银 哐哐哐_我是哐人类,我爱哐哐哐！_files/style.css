@@ -1,0 +1,311 @@
+*{margin:0px; padding:0;font-family:arial;}
+body{ background: #fff url(/web/20110131152053im_/http://www.kuanger.com/skin/images/bg.jpg) center repeat-y;font-size:12px;
+	}
+a{ text-decoration:none;color:#000;}
+table{font-size:12px;}
+li{list-style:none;}
+h3{font-size:14px;}
+img{border:0;}
+a:hover{color:#666;}
+.left{float:left;}
+.right{float:right}
+.more{font-size:12px; color:#008C02; font-weight:normal; margin-top:1px;*margin-top:0px;}
+.under{ text-decoration:underline;}
+/*box*/
+.box{width:980px; margin:0 auto; margin-top:8px; overflow:hidden; text-align:left;}
+
+
+/*header*/
+.header{width:978px; height:201px; margin-bottom:-8px; background:url(/web/20110131152053im_/http://www.kuanger.com/skin/images/header_bg.jpg) no-repeat;}
+.nav{ width:700px; height:27px; float:left; margin-left:60px; margin-top:172px;}
+.nav ul li{float:left;font-size:14px; margin-left:40px;}
+.nav ul li a{color:#fff; display:block;width:63px; height:21px; line-height:21px;text-align:center;}
+.nav ul li a:hover{ background:url(/web/20110131152053im_/http://www.kuanger.com/skin/images/nav_bg.jpg) no-repeat left top;}
+.nav_bg{background:url(/web/20110131152053im_/http://www.kuanger.com/skin/images/nav_bg.jpg) no-repeat left top;}
+.search{ background:#773f33; height:15px; border:1px solid #b19f99; float:left; border-right:none; margin-left:55px; margin-top:3px; color:#b19f99}
+.search_button{ background:url(/web/20110131152053im_/http://www.kuanger.com/skin/images/search_bg.jpg) no-repeat; width:46px; height:17px; float:left; border:none;margin-top:3px;}
+
+
+/*middle*/
+.middle{width:980px;margin:0 auto; margin-top:15px;overflow:hidden;}
+.redian{width:293px; float:left; height:244px;}
+.redian h3{ background: #ecda8b url(/web/20110131152053im_/http://www.kuanger.com/skin/images/kuang_bg.jpg) no-repeat; width:280px;height:19px;line-height:19px;color:#343436; padding:3px 6px;*padding:4px 6px;*height:17px;*line-height:17px;}
+.more a{ color:#008C02;}
+.more a:hover{color:#666; text-decoration:underline;}
+.tupian_js{width:282px;height:205px; margin-top:4px; border:1px solid #008C00; padding:4px;}
+.zuixin{width:467px; float:left; margin-left:3px; height:244px;}
+.zuixin h3{ background: #ecda8b url(/web/20110131152053im_/http://www.kuanger.com/skin/images/kuang_bg.jpg) no-repeat;width:454px; height:19px;line-height:19px;color:#343436; padding:3px 6px;*padding:4px 6px;*height:17px;*line-height:17px;}
+.xin{width:456px; background:#F0DE96; height:205px; margin-top:4px; padding:4px; border:1px solid #008C00;}
+.biaoti{text-align:center; margin-top:5px;font-size:14px;color:#B70002; height:20px; line-height:20px;}
+.biaoti a{color:#B70002; text-decoration:none;}
+.biaoti a:hover{ color:#000; text-decoration:underline;}
+.xin_list{width:431px; height:110px; float: left; padding-top:5px; margin-left:7px;}
+
+.x_list{ width:300px; float:left; margin-left:10px;}
+.x_list h1{ font-size:14px; height:25px; line-height:25px;}
+.x_list h1 a{color:#B70002}
+.x_list h1 a:hover{ text-decoration:underline;}
+.rd_img{ float:left; border:1px solid #999; padding:3px;}
+.jinru{float:right; color:#999;}
+.list_xia{ background:#F7EDBA; width:450px; height:85px; float:left; margin-top:4px; margin-left:3px; padding-top:2px;}
+.list_xia ul{ float:left; margin-left:15px;}
+.list_xia ul li{ height:20px; line-height:20px; width:200px; float:left; background:url(/web/20110131152053im_/http://www.kuanger.com/skin/images/c3.jpg) left 7px no-repeat; padding-left:10px;}
+
+
+
+.user{width:212px; float:left; margin-left:3px; height:244px;}
+.user h3{background: #ecda8b url(/web/20110131152053im_/http://www.kuanger.com/skin/images/kuang_bg.jpg) no-repeat; width:202px;*width:212px;height:19px;line-height:19px;color:#343436; padding:3px 6px;*padding:4px 6px;*height:17px;*line-height:17px;}
+.login{width:212px; height:213px; margin-top:4px; background:#FFF0E0; border:1px solid #4C261D}
+.login table{ color:#B50100}
+
+.jjfz{ float:left;width:760px; height:112px; background:#F7EDBA; border:1px solid #008C00; margin-top:7px;}
+.jjfz h3{background: #ecda8b url(/web/20110131152053im_/http://www.kuanger.com/skin/images/kuang_bg.jpg) no-repeat; width:744px;height:19px;line-height:19px;color:#343436; padding:3px 6px;*padding:4px 6px;*height:17px;*line-height:17px; margin:2px;}
+.jjfz ul li{ float:left; margin-left:20px; margin-top:10px; text-align:center;}
+.jjfz ul li img{ border:2px solid #fff;}
+.jjfz ul li a{color:#000;}
+.jjfz ul li a:hover{ color:#999;}
+
+.klt{ width:760px; height:210px; border:1px solid #008C00; float:left; margin-top:7px;background:#F7EDBA;}
+.klt h3{background: #ecda8b url(/web/20110131152053im_/http://www.kuanger.com/skin/images/kuang_bg.jpg) no-repeat; width:744px;height:19px;line-height:19px;color:#343436; padding:3px 6px;*padding:4px 6px;*height:17px;*line-height:17px; margin:2px;}
+.luntan{ width:200px; height:137px; background:url(/web/20110131152053im_/http://www.kuanger.com/skin/images/luntan.jpg) no-repeat; margin:12px; padding:13px 0px 0px 12px;}
+.luntan_right{ height:170px; width:520px; float:right;}
+.luntan_right ul li{ width:250px; float:left; margin-top:15px; margin-left:5px; overflow:hidden;height:70px;}
+.luntan_right ul li span a{ color:#008C00; height:20px; line-height:20px}
+.luntan_right ul li span a:hover{ color:#666;}
+.luntan_right ul li p a{ float:right; color:#E20D09}
+#nav_2{width:212px;
+     height:30px;
+	 background:#FFF0E0;
+	 }
+#nav_2 ul{list-style:none;
+        margin:0;
+		padding:0;}	 
+#nav_2 ul li{float:left;}	
+#nav_2 ul li a{display:block;
+             width:106px;
+			 height:30px;
+			 text-align:center;
+			 line-height:30px;
+			 text-decoration:none;
+			 background:#F4D8B3;
+			 color:#000;
+			 }
+			 	
+#ch0,#ch1,#ch2{width:212px;height:301px; background:#FFF0E0; border-top:none;}
+#ch0 ul li,#ch1 ul li{height:60px;}
+#ch0 ul li img,#ch1 ul li img{ border:2px solid #fff; float:left; margin:3px 5px;}
+#ch0 ul li span,#ch1 ul li span{ height:30px; line-height:30px; color:#008C02}
+#ch0 ul li p,#ch1 ul li p{color:#666;}
+
+
+.kdh{width:978px; height:214px; border:1px solid #999; float:left;background:#F7EDBA}
+.kdh h3{background:#ecda8b url(/web/20110131152053im_/http://www.kuanger.com/skin/images/kuang_bg.jpg) no-repeat;  width:962px;height:19px;line-height:19px;color:#343436; padding:3px 6px;*padding:4px 6px;*height:17px;*line-height:17px; margin:2px;}
+.kdh_list{width:978px; border-top:1px solid #999; height:180px; float:left;}
+.kdh_list ul li{ width:130px; float:left; margin-top:20px; margin-left:29px;} 
+.kdh_list ul li img{ border:1px solid #999; padding:3px; }
+.kdh_list ul li p{ line-height:18px; margin-top:8px;}
+.kdh_list ul li a{ color:#0092A4; }
+.kdh_list ul li a:hover{ color:#999;}
+
+.kxz{width:978px; height:214px; border:1px solid #999; float:left; background:#F7EDBA;margin-top:7px;}
+
+.kxz_list{width:978px;height:185px; float:left; }
+
+
+/*foot*/
+.yqlj{ width:966px;border:1px solid #999; height:18px; float:left; margin-top:5px; *margin-top:8px;background:#F7EDBA; padding:6px;}
+.yqlj b{ font-size:14px; width:70px; height:14px; float:left; color:#343233; }
+.yqlj ul li{ float:left; margin:2px; padding-left:10px;}
+.foot{ background:#000 url(/web/20110131152053im_/http://www.kuanger.com/skin/images/foot_bg.jpg) repeat-x center; width:962px; *width:980px; padding-right:20px; margin:0 auto;height:102px;}
+.foot_logo{ width:68px; height:77px; margin:20px 0px 0px 20px; float:left;}
+.qita{ float:right; margin:20px 0px 0px 20px; color:#6B6B6B; text-align:right; }
+
+
+
+
+.preview{ width:100%; height:148px;}
+.cont{width:100%; height:148px;}
+.cls{clear:both;}
+.hidden{display:none;}
+#sourse{border:1px dotted #ccc;width:600px;height:300px;margin:0px auto;}
+.textDiv{margin:10px 40px 10px;text-align:center;}
+h2{margin:0px 10px;background:#ccc;padding:5px;}
+.example{margin:10px;background:#FFF;border:1px dotted #ccc;padding:10px;}
+.scrolldoorFrame{ width:100%; height:148px;}
+.scrollUl{width:700px;overflow:hidden;height:25px; margin-top:2px;*padding-top:3px;}
+.scrollUl li{float:left;}
+.kxz_midd{height:90px;}
+.kxz_midd li{width:130px; float:left; margin-top:25px; margin-left:29px;}
+.kxz_midd li img{ border:1px solid #999; padding:3px;}
+
+.sd01{ border:1px solid #98999B; border-bottom:1px solid #F7EDBA; background:#F7EDBA;margin-left:10px; width:82px; height:18px; text-align:center; padding-top:4px;}
+.sd02{ background:url(/web/20110131152053im_/http://www.kuanger.com/skin/images/r5_c2.jpg) no-repeat; border:1px solid #98999B; margin-left:10px; width:82px; height:18px;text-align:center; padding-top:4px;}
+
+
+.kcp{width:978px; height:180px; border:1px solid #999; float:left;background:#F7EDBA; margin-top:7px;}
+.kcp_list{width:978px; height:148px; float:left; }
+#cc01 ul li{width:130px; float:left; margin-top:25px; margin-left:29px;}
+#cc01 ul li img{ border:1px solid #999; padding:3px;}
+#cc01 ul li a{ color:#0091A2;}
+#cc01 ul li a:hover{ color:#999;}
+#cc01 ul li p{ text-decoration:underline; margin-top:5px;}
+
+
+
+.kxz_top{width:978px; overflow:hidden;background:#ECDA8B url(/web/20110131152053im_/http://www.kuanger.com/skin/images/kuang_bg.jpg)  2px 3px no-repeat; height:30px; border-bottom:1px solid #999; }
+.kxz_bt{ height:20px; margin-top:7px;width:100px; float: left;}
+.kxz_bt b{font-size:14px; color:#333230;margin:5px; *margin:0 0 0 5px;height:14px;}
+.kxz_nav{width:500px; height:25px; margin-top:5px;float:left; margin-left:20px;}
+.more_02{width:100px;  height:15px; padding-top:5px; padding-right:10px; float:right;}
+.kxz_list_2{width:958px; height:40px;margin:0 auto; background:url(/web/20110131152053im_/http://www.kuanger.com/skin/images/xian_bg.jpg) repeat-x center; margin-top:40px;}
+
+.kxz_list_2 ul li{ float:left; width:80px; margin-left:35px; height:20px; line-height:20px;}
+
+
+
+
+/*������ҳ*/
+.xz_left{ float:left;background:#F0DE96; width:660px; border:1px solid #999; height:auto; overflow:hidden;}
+.xz_h3{ background:url(/web/20110131152053im_/http://www.kuanger.com/skin/images/kuang_bg.jpg) no-repeat; height:17px; margin:2px; padding:4px 4px; color:#343237}
+.xz_name{ border-top:1px solid #999; width:100%;}
+.xz_name h3{ text-align:center; margin:10px 0px; color:#765745}
+.xz_right{ float:right; width:308px; overflow:hidden;}
+.xz_js{ background:#F0DE95; border:1px solid #008C00; width:620px; padding:15px; margin:0px 4px; height:auto; overflow:hidden;}
+.xz_img{ float:left; width:220px; height:166px;}
+.xz_xinxi{ width:360px; height:180px; float:left; margin-left:20px;}
+.xinxi li{ width:160px; float:left; height:20px; line-height:20px; color:#4D271E}
+.xz_button{ height:35px; float:left;margin-top:30px;}
+.xz_button li{ float:left; width:110px;}
+.xz_jianjie{ border-top:1px dashed #999; height:300px; float:left; padding-top:5px;width:100%; height:auto; line-height:20px; color:#4D271E; }
+.xz_jianjie p{text-indent:24px;}
+
+.xz_pinglun{ background:#fff; border:1px solid #008C00; width:620px;padding:15px; margin:0px 4px; height:auto; overflow:hidden; margin-top:8px; margin-bottom:8px;}
+.xz_biaoq{float:left; margin-left:130px;}
+.xz_biaoq li{ float:left; margin-left:7px; height:20px; line-height:20px;}
+.xz_pinglun h4{float:left; color:#4C261D; font-size:12px;}
+.xz_pinglun h4 a{color:red; font-weight:100}
+.xz_pinglun h4 a:hover{color:#999;}
+.xz_denglu{ width:100%; height:180px; float:left; margin-top:8px;}
+.shuruk{width:620px; height:130px; font-size:12px; background:#F7EDBA; border:1px solid #008C00}
+.xz_login{ margin-top:8px; height:40px;}
+.xz_login ul li{ float:left; height:30px; line-height:30px; margin-left:7px;}
+.login_k{ height:20px;line-height:20px; font-size:12px; width:110px;}
+.login_bt{ background:url(/web/20110131152053im_/http://www.kuanger.com/skin/images/xz_button.jpg) repeat-x; width:42px; height:24px; border:1px solid #666; font-size:12px}
+.fabiao input{ margin-left:30px;width:100px; height:25px; line-height:25px; background:url(/web/20110131152053im_/http://www.kuanger.com/skin/images/xz_button.jpg) repeat-x;  font-size:12px;border:1px solid #666;}
+.plneirong{width:610px;border-top:1px solid #666; float:left; padding-top:5px; height:auto; overflow:hidden; padding-bottom:10px; margin-top:15px;}
+.plneirong h4{ width:540px;}
+.plneirong p{ text-indent:24px;}
+.touxiang{width:50px; height:51px; border:1px solid #ccc; padding:2px; float:left; margin-right:10px;}
+.huifu{ float:right; margin-top:10px;}
+.huifu a{ color:#15940F}
+.huifu a:hover{color:#666;}
+/*��������*/
+.blph{width:306px; background:#FFF0E0; height:270px; border:1px solid #4C261D; margin-bottom:8px;}
+.xz_h3_right{ background:url(/web/20110131152053im_/http://www.kuanger.com/skin/images/kuang_bg_2.jpg) no-repeat; height:17px; margin:2px; padding:4px 4px; color:#343237}
+.blph_list{ width:298px; border-top:1px solid #4C261D; padding:4px;}
+.blph_list ul li{ border-bottom:1px dashed #4C261D;margin-top:8px;}
+.blph_list ul li img{ float:left;}
+.the_one{height:100px; width:270px; margin-left:5px; float:left;}
+.the_one img{ border:1px solid #ccc; padding:3px; float:left; margin-right:5px;}
+.the_one p{ text-indent:24px; color:#4C271E; margin-top:5px;}
+.the_one span{ float:left;margin-top:10px;color:#4C271E;}
+.first{ height:100px; }
+.two{ height:20px; line-height:20px;}
+.two img{ margin-top:3px; margin-right:8px;}
+.xzgj{width:306px; background:#FFF0E0; height:127px; border:1px solid #4C261D;}
+.xzgj_list{ border-top:1px solid #4C261D}
+.xzgj_list ul li{ float:left; margin-left:23px; text-align:center; margin-top:20px;}
+.xzgj_list ul li img{ border:1px solid #ccc;}
+/*��������ҳ*/
+.xz{ margin-top:8px}
+.xz_top{width:660px; margin-right:10px;height:270px; border:1px solid #999; float:left;background:#F0DE96; }
+.xz_tj{width:648px; margin:0px 5px; background:#fff; height:235px; border:1px solid #008C00}
+.tjxz{ width:635px; height:135px; border-bottom:1px solid #008C00; margin:0 auto;}
+.tjxz ul li{ float:left; text-align:center; margin-left:25px; margin-top:20px;}
+.tjxz ul li img{ border:1px solid #ccc; padding:3px;}
+.tjxz ul li p{ text-decoration:underline; margin-top:5px;}
+.tjxz ul li a{ color:#0098BA; text-decoration:underline;}
+.tjxz ul li a:hover{ color:#999;}
+.xiao_list{ width:200px; float:left; margin-left:16px;}
+.xiao_list li{ height:25px;line-height:25px;}
+
+.col_2{ color:#018B00;}
+.kbiaoqing{width:978px; margin-top:8px;background:#F7EDBA;height:140px; border:1px solid #999; float:left;}
+.kbiaoqing h3{background:#ecda8b url(/web/20110131152053im_/http://www.kuanger.com/skin/images/kuang_bg.jpg) no-repeat;  width:962px;height:19px;line-height:19px;color:#343436; padding:3px 6px;*padding:4px 6px;*height:17px;*line-height:17px; margin:2px;}
+.kbq_list{ width:100%; border-top:1px solid #999;}
+.kbq_list ul li{ float:left; margin:12px 0px 0px 20px;}
+.kbq_list ul li img{  border:1px solid #ccc; padding:2px;}
+.kyinyue{width:978px; margin-top:8px;background:#F7EDBA;height:170px; border:1px solid #999; float:left;}
+.kyinyue h3{background:#ecda8b url(/web/20110131152053im_/http://www.kuanger.com/skin/images/kuang_bg.jpg) no-repeat;  width:962px;height:19px;line-height:19px;color:#343436; padding:3px 6px;*padding:4px 6px;*height:17px;*line-height:17px; margin:2px;}
+
+.scrollUl_2{ width:110px; float:left; margin-left:5px; position:absolute; z-index:9;}
+.scrollUl_2 li{ margin-top:5px;}
+.sd001{ height:30px; line-height:30px; background:#fff; border:1px solid #999; border-right:1px solid #fff; text-align:center}
+.sd002{ height:30px; line-height:30px; background:#FFF0E0;border:1px solid #999; text-align:center}
+.cont_2{width:850px; float:left; background:#fff; border:1px solid #999; height:125px; margin-left:114px;}
+.preview_2{ border-top:1px solid #999; padding-top:5px;}
+#cccc01 ul li{ float:left; margin-left:5px; margin-top:5px;}
+#cccc01 ul li a{ display:block; width:130px; height:22px; color:#666;}
+#cccc01 ul li a:hover{ color:#000;}
+#cccc02 ul li{ float:left; margin-left:5px; margin-top:5px;}
+#cccc02 ul li a{ display:block; width:130px; height:22px; color:#666;}
+#cccc02 ul li a:hover{ color:#000;}
+
+
+/*�����б�*/
+.xz_list_left{width:660px; height:auto; overflow:hidden; float:left; border:1px solid #999;background:#F0DE96;}
+.xz_xuanxiang{height:20px; font-size:12px; font-weight:100; color:#008E00}
+.xz_xuanxiang select{ height:20px; font-size:12px;}
+.xz_list{ background:#fff; width:648px; border:1px solid #008e00; margin:5px; height:740px;; float:left;}
+.xz_list ul li{ float:left; text-align:center; margin-left:27px; margin-top:20px;}
+.xz_list ul li img{border:1px solid #ccc; padding:3px;}
+.xz_list ul li p{ margin-top:5px; text-align:left;}
+.xz_list ul li a{ color:#018C00; }
+.xz_list ul li a:hover{ color:#999;}
+.fenye{ height:50px; width:660px; float:left; margin-top:20px;}
+.fenye ul li{ float:left; margin-left:10px; height:25px; line-height:25px;}
+.fenye ul li a{ border:1px solid #666; padding:3px; background:#fff}
+.color{color:#FD6600; font-weight:600;}
+#tiaoye{float:right; margin-right:20px;}
+#tiaoye select{ height:20px; font-size:12px; line-height:20px;} 
+
+/*�����ռ�*/
+.bofang{ margin:0 auto; width:100%;height:auto; overflow:hidden;text-align:center; }
+.qtdh{ width:306px; background:#FFF0E0;border:1px solid #4C261D; float:left; height:660px;}
+.qtdh_list{ border-top:1px solid #4C261D}
+.qtdh_list ul li{ margin:20px 0px 10px 15px;}
+.qtdh_list ul li img{ float:left; border:1px solid #ccc; padding:3px; background:#fff; margin-right:8px;}
+.qtdh_list ul li p{ line-height:22px; height:22px; color:#4C271E}
+
+
+/*����ҳ*/
+.dh_gg{ border:1px solid #008c00; margin-left:7px; float:left; width:148px; height:237px;}
+.kdh_2{ width:978px; border:1px solid #999999; float:left; height:530px;background:#F0DE96}
+.dh_list{ border-top:1px solid #999; width:100%; height:auto; overflow:hidden;}
+.dh_list ul li{ float:left; margin:10px 0px 10px 55px;}
+.dh_list ul li img{ border:1px solid #ccc; background:#fff; padding:3px;}
+.dh_list ul li a{ color:#008A00}
+.dh_list ul li p{ height:20px; line-height:20px;}
+.fenye_dh{ height:30px; width:948px; float:left; padding-top:20px; padding-left:30px; border-top:1px solid #008c00}
+.fenye_dh ul li{ float:left; margin-left:10px; height:25px; line-height:25px;}
+.fenye_dh ul li a{ border:1px solid #666; padding:3px; background:#fff}
+/*
+     FILE ARCHIVED ON 15:20:53 Jan 31, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:52:00 Jan 21, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 179.975
+  exclusion.robots: 0.11
+  exclusion.robots.policy: 0.097
+  cdx.remote: 0.079
+  esindex: 0.011
+  LoadShardBlock: 140.873 (3)
+  PetaboxLoader3.datanode: 115.01 (4)
+  load_resource: 100.93
+  PetaboxLoader3.resolve: 28.1
+*/
